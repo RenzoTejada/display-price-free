@@ -113,3 +113,14 @@ function rt_display_free_wc_admin_notice()
 }
 
 add_action('admin_notices', 'rt_display_free_wc_admin_notice');
+
+// Cart and Checkout
+add_filter( 'woocommerce_cart_item_subtotal', 'rt_display_free_checkout_item_subtotal_html', 10, 3 );
+function rt_display_free_checkout_item_subtotal_html( $subtotal_html, $cart_item, $cart_item_key )
+{
+    if( $cart_item['data']->get_price() == 0 ) {
+        $text_custom = esc_html(get_option('rt_display_free_custom'));
+        return '<span class="woocommerce-Price-amount amount">'. $text_custom .'</span>';
+    }
+    return $subtotal_html;
+}

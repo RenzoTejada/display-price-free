@@ -2,7 +2,7 @@
 Contributors: renzotejada
 Tags: price free, zero, free, gratis
 Requires at least: 5.2
-Tested up to: 5.7.2
+Tested up to: 5.9
 Stable tag: trunk
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -17,6 +17,7 @@ You will find this same information in the readme.txt of the plugin and on our w
 == Description ==
 
 This plugin Display FREE if Price Zero or Empty - WooCommerce Single Product.
+
 Add the **Display Price Free** to the WordPress.
 
 &#9989; More information about the plugin in [Display Price Free for WooCommerce](https://renzotejada.com/display-price-free/ "Display Price Free for WooCommerce")
@@ -82,9 +83,14 @@ Manual FTP installation
 
 == Changelog ==
 
+= 0.0.4 (27/01/2022) =
+Fix: validando versión WC 6.1.1
+Fix: validando versión WP 5.9
+Fix: agregando texto personalizado en el cart and checkout page.
+
 = 0.0.3 (14/06/2021) =
 Fix: validando versión WC 5.4.1.
-Fix: agregand links en el readme de plugins free y premium.
+Fix: agregando links en el readme de plugins free y premium.
 
 = 0.0.2 =
 Inicio
