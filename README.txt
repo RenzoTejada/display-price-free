@@ -2,7 +2,7 @@
 Contributors: renzotejada, drplugins
 Tags: price free, zero, free, gratis
 Requires at least: 5.2
-Tested up to: 6.0
+Tested up to: 6.1.1
 Stable tag: trunk
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -44,6 +44,7 @@ For additional functionality, check out our companion plugin, such as:
 * [WooPlin para WooCommerce](https://renzotejada.com/plugin/wooplin-para-woocommerce/)
 * [WooTunki para WooCommerce](https://renzotejada.com/plugin/wootunki-para-woocommerce/)
 * [WooBilletera para WooCommerce](https://renzotejada.com/plugin/woobilletera-para-woocommerce/)
+* [Comprobante de Pago Perú PRO para WooCommerce](https://renzotejada.com/plugins/comprobante-de-pago-peru-pro-para-woocommerce/)
 
 
 Visit our [plugins overview page](https://renzotejada.com/categoria-producto/plugins/) for more information.
@@ -82,6 +83,10 @@ Manual FTP installation
 1. Display Price Free Dashboard
 
 == Changelog ==
+
+= 0.0.6 (06/12/2022) =
+Fix: validando versión WC 7.1.0
+Fix: validando versión WP 6.1.1
 
 = 0.0.5 (16/05/2022) =
 Fix: validando versión WC 6.5.1
