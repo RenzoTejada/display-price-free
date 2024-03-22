@@ -8,14 +8,14 @@
  * Plugin Name:       Display Price Free
  * Plugin URI:        https://renzotejada.com/display-price-free/
  * Description:       Display FREE if Price Zero or Empty - WooCommerce Single Product
- * Version:           0.0.6
+ * Version:           0.0.7
  * Author:            Renzo Tejada
  * Author URI:        https://renzotejada.com/
  * License:           GNU General Public License v3.0
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       rt-display-free
  * Domain Path:       /language
- * WC tested up to:   7.1.0
+ * WC tested up to:   8.7.0
  * WC requires at least: 2.6
  */
 if (!defined('ABSPATH')) {
