@@ -2,7 +2,7 @@
 Contributors: renzotejada, huakotech, alexistejada
 Tags: price free, zero, free, gratis
 Requires at least: 5.2
-Tested up to: 6.1.1
+Tested up to: 6.6.1
 Stable tag: trunk
 Requires PHP: 5.6
 License: GPLv2 or later
