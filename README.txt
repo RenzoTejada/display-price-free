@@ -2,7 +2,7 @@
 Contributors: renzotejada, huakotech, alexistejada
 Tags: price free, zero, free, gratis
 Requires at least: 5.2
-Tested up to: 6.6.1
+Tested up to: 6.7
 Stable tag: trunk
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -79,6 +79,10 @@ Manual FTP installation
 1. Display Price Free Dashboard
 
 == Changelog ==
+
+= 1.1 (15/11/2024) =
+Fix: validando versión WC 9.4.1
+Fix: validando versión WP 6.7
 
 = 1.0 (28/08/2024) =
 Fix: validando versión WC 9.2.3
