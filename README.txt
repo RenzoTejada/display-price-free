@@ -2,10 +2,10 @@
 Contributors: renzotejada, huakotech, alexistejada
 Tags: price free, zero, free, gratis
 Requires at least: 5.2
-Tested up to: 6.7
-Stable tag: trunk
-Requires PHP: 5.6
-License: GPLv2 or later
+Tested up to: 6.7.1
+Stable tag: 1.2
+Requires PHP: 7.4
+License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin Display FREE if Price Zero or Empty - WooCommerce Single Product.
@@ -79,6 +79,10 @@ Manual FTP installation
 1. Display Price Free Dashboard
 
 == Changelog ==
+
+= 1.2 (16/01/2024) =
+Fix: validando versión WC 9.5.2
+Fix: validando versión WP 6.7.1
 
 = 1.1 (15/11/2024) =
 Fix: validando versión WC 9.4.1
