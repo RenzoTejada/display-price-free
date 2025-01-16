@@ -80,6 +80,9 @@ Manual FTP installation
 
 == Changelog ==
 
+= 1.3 (16/01/2024) =
+Fix: deploy git actions
+
 = 1.2 (16/01/2024) =
 Fix: validando versión WC 9.5.2
 Fix: validando versión WP 6.7.1
