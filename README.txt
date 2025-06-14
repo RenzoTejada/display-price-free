@@ -2,9 +2,9 @@
 Contributors: renzotejada, huakotech, alexistejada
 Tags: price free, zero, free, gratis
 Requires at least: 5.2
-Tested up to: 6.7.1
-Stable tag: 1.4
-Requires PHP: 7.4
+Tested up to: 6.8.1
+Stable tag: 1.5
+Requires PHP: 8.2
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,11 @@ Manual FTP installation
 1. Display Price Free Dashboard
 
 == Changelog ==
+
+= 1.5 (14/06/2025) =
+Fix: validando versión WC 9.9.3
+Fix: validando versión WP 6.8.1
+Fix: agregando sonar con git actions
 
 = 1.4 (16/01/2024) =
 Fix: deploy git actions v2
